@@ -1,3 +1,10 @@
+libbraille-input (0.9-1lliurex23) jammy; urgency=medium
+
+  * Non-maintainer upload.
+  * Packaged from git
+
+ -- Juanma1980 <juanma1980@gmail.com>  Fri, 28 Jun 2024 08:57:14 +0200
+
 libbraille-input (0.9-1) focal; urgency=medium
 
   * Using direct keycode instead of event.hardware_keycode
