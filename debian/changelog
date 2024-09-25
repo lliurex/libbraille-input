@@ -1,3 +1,9 @@
+libbraille-input (0.9lliurex25) jammy; urgency=medium
+
+  * Noble release
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 25 Sep 2024 08:10:55 +0200
+
 libbraille-input (0.9-1lliurex23) jammy; urgency=medium
 
   * Non-maintainer upload.
